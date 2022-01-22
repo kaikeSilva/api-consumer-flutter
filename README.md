@@ -1,16 +1,4 @@
-# api_cursos
+# CONSUMIDOR DE API EM FLUTTER
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto criado como trabalho da disciplina de construção de aplicações móveis
+Este aplicativo consome os dados de uma api construida em laravel, futur api, que é um projeto em laravel que tambem esta aqui neste github.
